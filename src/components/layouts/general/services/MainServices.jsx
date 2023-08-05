@@ -7,46 +7,46 @@ class MainServices extends Component {
             titleServices: [
                 {
                     id: 1,
-					title: 'What We Can Offer You',
-					description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.',
+					title: 'Our Services',
+                    description: 'Explore our wide range of financial services designed to meet your specific needs and help you achieve your financial goals.',
                 }
 			],
 			imagebox: [
 				{
 					id: '1',
 					imgsrc: 'images/imagebox/04.jpg',
-					title: 'Mutual Funds',
-					description: 'Mutual funds pool money from many investors to purchase broad range of investments, such as stocks.'
+					title: 'Investment Planning',
+                    description: 'Create a comprehensive investment plan tailored to your financial goals and risk tolerance for a secure financial future.',
 				},
 				{
 					id: '2',
 					imgsrc: 'images/imagebox/05.jpg',
-					title: 'Investment Planning',
-					description: 'Mutual funds pool money from many investors to purchase broad range of investments, such as stocks.'
+					title: 'Mutual Funds',
+                    description: 'Diversify your investments and benefit from pooled money to purchase a broad range of assets, such as stocks and bonds.',
 				},
 				{
 					id: '3',
 					imgsrc: 'images/imagebox/06.jpg',
 					title: 'Personal Insurance',
-					description: 'Mutual funds pool money from many investors to purchase broad range of investments, such as stocks.'
+					description: 'Protect yourself and your loved ones with our personalized insurance solutions to safeguard against life uncertainties.',
 				},
 				{
 					id: '4',
 					imgsrc: 'images/imagebox/07.jpg',
 					title: 'Industrial Insurance',
-					description: 'Mutual funds pool money from many investors to purchase broad range of investments, such as stocks.'
+					description: 'Safeguard your business and employees with our industrial insurance plans designed to mitigate potential risks.',
 				},
 				{
 					id: '5',
 					imgsrc: 'images/imagebox/08.jpg',
 					title: 'INVESTMENT IN BONDS',
-					description: 'Mutual funds pool money from many investors to purchase broad range of investments, such as stocks.'
+					description: 'Invest in bonds to earn fixed interest income and enhance the diversification of your investment portfolio.',
 				},
 				{
 					id: '9',
 					imgsrc: 'images/imagebox/09.jpg',
 					title: 'Retirement Planning',
-					description: 'Mutual funds pool money from many investors to purchase broad range of investments, such as stocks.'
+					description: 'Plan for a comfortable retirement with our expert guidance and strategies to secure your financial future.'
 				}
 			]
         }

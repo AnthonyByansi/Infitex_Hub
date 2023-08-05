@@ -102,19 +102,20 @@ class MainPost extends Component {
             textplan: [
                 {
                     id: '1',
-                    text: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore'
+                    text: 'Explore the world of financial opportunities and make informed decisions. Our financial consulting service provides expert advice and strategies to help you achieve your goals.'
                 },
                 {
                     id: '2',
-                    text: 'In your life, you may have many times facing financial issues. It’s good if you know how to handle it by yourself and have enough time to take care of it. In other cases, it’s time you get a financial consulting service. And the article below will show you those cases.'
+                    text: 'Facing financial issues and need guidance? Our financial consulting service is here to assist you. We will analyze your situation, offer personalized solutions, and help you take control of your finances.'
                 },
                 {
                     id: '3',
-                    text: 'In your life, you may have many times facing financial issues. It’s good if you know how to handle it by yourself and have enough time to take care of it. In other cases, it’s time you get a financial consulting service. And the article below will show you those cases.'
+                    text: 'Confused about financial planning? Let our financial consulting service simplify the process for you. We will guide you through budgeting, investing, and building a secure financial future.'
+                  
                 },
                 {
                     id: '4',
-                    text: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore'
+                    text: 'Discover the art of financial management and secure your financial well-being. Our financial consulting service is designed to empower you with knowledge and confidence.'
                 }
             ]
             

@@ -36,7 +36,7 @@ class SlideBar extends Component {
                 {
                     id: 1,
                     title: 'Our Brochure',
-                    description: 'View our 2016 financial prospectus brochure for an easy to read guide on all of the services offered.'
+                    description: 'View our 2023 financial prospectus brochure for an easy to read guide on all of the services offered.'
                 }
             ]
         }

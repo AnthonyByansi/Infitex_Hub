@@ -34,33 +34,34 @@ class BlogGrid extends Component {
             ],
             list: [
                 {
-                    id: 1,
-                    text: 'Customer experience, which includes the impression the homepage and overall design style give the customers their satisfaction when they interact with the site and perform tasks.'
-
+                  id: 1,
+                  text: 'User Experience: Our platform prioritizes user experience, ensuring that the homepage and overall design style create a positive impression on our users. We aim to provide a seamless and satisfying experience as our users interact with the site and perform various tasks.'
                 },
                 {
-                    id: 2,
-                    text: 'Service-level, which looks at responsiveness and reliability of websites – scores them on how quickly they respond to user commands and such factors as average downtime.'
+                  id: 2,
+                  text: 'Service Reliability: At INFITX, we place great emphasis on responsiveness and reliability. Our platform is designed to quickly respond to user commands, ensuring smooth navigation and minimal downtime. We strive to deliver a dependable experience for all our users.'
                 },
                 {
-                    id: 3,
-                    text: 'Best practices, such as ease of use, quality, availability and security – site managers must be compliant with data laws requiring them to protect customer information and the integrity of customer accounts.'
+                  id: 3,
+                  text: 'Best Practices: We adhere to industry best practices to enhance user satisfaction. Our platform prioritizes ease of use, maintaining high-quality standards, and ensuring availability and security. We are committed to complying with data laws, safeguarding customer information, and maintaining the integrity of customer accounts.'
                 }
-            ],
+              ],
+              
             datablog: [
                 {
-                    id: '1',
-                    srcimg: 'images/blog/blog-post-01.png',
-                    title: 'WHY DO I NEED TO USE FINANCIAL ?',
-                    time: '11 Jan 2021',
-                    author: 'admin',
-                    category: 'Business',
-                    comments: 'No comment',
-                    description: 'Sed facilisis lorem in orci bibendum ullamcorper. Mauris vitae augue elementum, sodales nulla a, semper ligula. Nullam vel enim risus. Integer rhoncus hendrerit sem egestas porttitor. Integer et mi sed dolor eleifend pretium quis ut velit. Nam sit amet arcu feugiat, consequat orci at, ultrices magna ',
-                    description1: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.',
-                    description2: 'At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.'
+                  id: '1',
+                  srcimg: 'images/blog/blog-post-01.png',
+                  title: 'The Power of Financial Empowerment for Women',
+                  time: '3 August, 2023',
+                  author: 'INFITX Empowerment Hub Team',
+                  category: 'Financial Empowerment',
+                  comments: '0 Comments',
+                  description: 'Welcome to the INFITX Empowerment Hub blog post on the power of financial empowerment for women. In this article, we will explore the importance of financial literacy and its positive impact on women\'s lives.',
+                  description1: 'Financial empowerment goes beyond traditional notions of handling money. It is about gaining the knowledge and skills to make informed financial decisions that align with your goals and aspirations. By becoming financially empowered, women can take control of their financial future and achieve financial independence.',
+                  description2: 'At INFITX, we are committed to providing a platform that offers comprehensive financial literacy courses, access to microfinance opportunities, and a diverse range of investment options tailored to women\'s needs. Our supportive community, comprising mentors and networking events, creates a nurturing environment for women to learn and grow financially.',
                 },
-            ],
+              ],
+              
             tabcloud: [
                 {
                     id: '1',

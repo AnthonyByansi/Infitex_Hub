@@ -7,8 +7,8 @@ class TopFooter extends Component {
             <div className="widget-infomation">
                 <ul className="infomation-footer">
                     <li><i className="fa fa-envelope" aria-hidden="true"></i><Link to="mailto:support@infitxhub.com" title="">support@infitxhub.com</Link></li>
-                    <li><i className="fa fa-phone" aria-hidden="true"></i><Link to="tel:+256XXXXXXXXX" title=""></Link></li>+256 787 686 313
-                    <li><i className="fa fa-map-marker" aria-hidden="true"></i><span>Plot XX, Street Name,</span> <br/> <span>City, Country (Uganda)</span></li>
+                    <li><i className="fa fa-phone" aria-hidden="true"></i><Link to="tel:+256 787 686 313" title=""></Link></li>+256 787 686 313
+                    <li><i className="fa fa-map-marker" aria-hidden="true"></i><span>Plot 123, Kampala Road</span> <br/> <span></span></li>
                 </ul>
                 {/* <!-- /.infomation-footer --> */}
             </div>

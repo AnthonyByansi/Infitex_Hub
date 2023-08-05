@@ -8,30 +8,23 @@ class newBox extends Component {
                 {
                     id: 1,
                     srcimg: 'images/news/image-small-01.png',
-                    title: 'Why your sales forecast is off',
-                    description:'Sed facilisis lorem in orci bibendum ullamcorper. Mauris vitae augue elementum, ...',
-                    day: 'January 11, 2020',
+                    title: 'Empowering Women Through Financial Inclusion',
+                    description:'Discover the power of financial inclusion and its impact on women\'s lives. Learn about innovative solutions and opportunities for women to achieve financial stability and independence',
+                    day: '3, July 2023',
                 },
                 {
                     id: 2,
                     srcimg: 'images/news/image-small-02.png',
-                    title: 'Why your sales forecast is off',
-                    description:'Sed facilisis lorem in orci bibendum ullamcorper. Mauris vitae augue elementum, ...',
-                    day: 'January 11, 2020',
+                    title: 'Microfinance for Women: Driving Financial Independence',
+                    description: 'Explore the transformative impact of microfinance in empowering women to start and grow their own businesses. Learn how microloans are enabling financial independence for women in underserved communities.',
+                    day: '4, July 2023',
                 },
                 {
                     id: 3,
                     srcimg: 'images/news/image-small-03.png',
-                    title: '6 tips to retain your top sales talent',
-                    description:'Sed facilisis lorem in orci bibendum ullamcorper. Mauris vitae augue elementum, ...',
-                    day: 'January 11, 2020',
-                },
-                {
-                    id: 4,
-                    srcimg: 'images/news/image-small-04.png',
-                    title: 'What the martian can teach sales',
-                    description:'Sed facilisis lorem in orci bibendum ullamcorper. Mauris vitae augue elementum, ...',
-                    day: '1January 11, 2020',
+                    title: 'Financial Literacy Workshops: Empowering Women to Take Control',
+                    description: 'Join our interactive financial literacy workshops designed to equip women with essential money management skills. Learn how to budget, save, and make informed financial decisions to achieve your goals.',
+                    day: '5, July 2023',
                 }
             ]
         }

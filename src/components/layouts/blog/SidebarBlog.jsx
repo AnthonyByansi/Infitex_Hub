@@ -7,23 +7,23 @@ class SidebarBlog extends Component {
             listrecentpost: [
                 {
                     id: '1',
-                    title: 'Why Do I Need To Use Financial ?',
-                    datapost: 'January 11, 2021'
+          title: 'The Power of Financial Empowerment for Women',
+          datapost: 'June 20, 2023'
                 },
                 {
                     id: '2',
-                    title: 'Why your sales forecast is off',
-                    datapost: 'January 11, 2021'
+          title: 'Achieving Financial Independence: A Guide for Women',
+          datapost: 'June 20, 2023'
                 },
                 {
                     id: '3',
-                    title: '6 tips to retain your top sales talent',
-                    datapost: 'January 11, 2021'
+          title: 'Empowering Women Through Investment: Opportunities and Strategies',
+          datapost: 'June 20, 2023'
                 },
                 {
                     id: '4',
-                    title: 'What the martian can teach sales',
-                    datapost: 'January 11, 2021'
+                    title: 'Financial Literacy: Key to Womens Financial Well-being',
+                    datapost: 'January 11, 2023'
                 }
             ],
             category: [
@@ -33,7 +33,7 @@ class SidebarBlog extends Component {
                 },
                 {
                     id: '2',
-                    title: 'Finanve'
+                    title: 'Finance'
                 },
                 {
                     id: '3',
@@ -54,14 +54,6 @@ class SidebarBlog extends Component {
                     tablink: 'Consulting'
                 },
                 {
-                    id: '3',
-                    tablink: 'Creative'
-                },
-                {
-                    id: '4',
-                    tablink: 'Finanve'
-                },
-                {
                     id: '5',
                     tablink: 'Insurance'
                 },
@@ -72,14 +64,6 @@ class SidebarBlog extends Component {
                 {
                     id: '7',
                     tablink: 'Management'
-                },
-                {
-                    id: '8',
-                    tablink: 'Portfolio'
-                },
-                {
-                    id: '9',
-                    tablink: 'ThemeForest'
                 }
             ]
         }
@@ -114,10 +98,7 @@ class SidebarBlog extends Component {
                         <aside className="widget widget-brochure">
                             <div className="brochure-box-title">
                                 <h5 className="brochure-title">Our Brochure</h5>
-                                <p>View our 2016 financial prospectus brochure
-                                    for an easy to read guide on all of the
-                                    services offered.
-                                </p>
+                                <p>Explore our comprehensive financial prospectus brochure for an easy-to-read guide on the range of services offered. Our prospectus provides valuable insights into empowering women through financial literacy, investment opportunities, microfinance, and more.</p>
                             </div>
                             <p className="btn-download">
                                 <Link to="#" title="" className="pdf">Download .PDF</Link>

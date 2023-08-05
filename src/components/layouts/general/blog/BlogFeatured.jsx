@@ -6,22 +6,23 @@ class BlogFeatured extends Component {
         this.state = {
             datanewBox: [
                 {
-                    id: 1,
-                    srcimg: 'images/news/large-01.jpg',
-                    classname:'post style2',
-                    title: 'Why Do I Need To Use Financial ?',
-                    description:'Sed facilisis lorem in orci bibendum ullamcorper. Mauris vitae augue elementum, ...',
-                    day: '11',
-                    month: 'JAN'
+                        id: 1,
+                        srcimg: 'images/news/large-01.jpg',
+                        classname: 'post style2', // Assuming the classname should be "post-item" instead of "post style2"
+                        title: 'Empowering Women Through Financial Inclusion',
+                        description: 'Discover the power of financial inclusion and its impact on women\'s lives. Learn about innovative solutions and opportunities for women to achieve financial stability and independence.',
+                        day: '20',
+                        month: 'JUN', // Changed the month to the current month (June)
+                                            
                 },
                 {
                     id: 2,
                     srcimg: 'images/news/large-02.jpg',
                     classname:'post style2',
-                    title: 'Why your sales forecast is off',
-                    description:'Sed facilisis lorem in orci bibendum ullamcorper. Mauris vitae augue elementum, ...',
+                    title: 'Understanding Sales Forecast Discrepancies',
+                    description:'Understanding Sales Forecast Discrepancies',
                     day: '11',
-                    month: 'JAN'
+                    month: 'JUN'
                 },
             ]
         }

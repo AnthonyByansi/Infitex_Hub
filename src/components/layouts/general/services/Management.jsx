@@ -8,9 +8,10 @@ class Management extends Component {
             itembox: [
                 {
                     id: 1,
-					title: 'Wealth Management',
-					classicon: 'icon-benefit',
-					boxcontent: 'Enim ad minim veniam, quis nostrud exercitation ullamco laboris. Quis nostrud exercitation'
+                    title: 'Wealth Management',
+                    classicon: 'icon-benefit',
+                    boxcontent: 'Achieve financial success with our expert wealth management services. Our team of experienced professionals will work closely with you to create a personalized wealth management plan that aligns with your financial goals and aspirations. We provide comprehensive solutions to help you grow and preserve your wealth, manage risks, and plan for a secure future. With our wealth management services, you can navigate the complexities of the financial market with confidence and peace of mind.'
+                                
 				},
             ]
         }

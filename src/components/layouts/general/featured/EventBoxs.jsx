@@ -6,23 +6,24 @@ class EventBoxs extends Component {
         this.state = {
             dataEvents: [
                 {
-                    id: 1,
-                    srcimg: 'images/imagebox/001.jpg',
-                    title: 'Business Ideas And Innovation',
-                    description: 'Sed ut perspiciatis unde omnis iste error sit voluptatem accusantium doloremque lau dantium, rem aperiam eaque ipsa ab illo inventore veritatis', 
-                },
-                {
-                    id: 2,
-                    srcimg: 'images/imagebox/002.jpg',
-                    title: 'Business Ideas And Innovation',
-                    description: 'Sed ut perspiciatis unde omnis iste error sit voluptatem accusantium doloremque lau dantium, rem aperiam eaque ipsa ab illo inventore veritatis',
-                },
-                {
-                    id: 3,
-                    srcimg: 'images/imagebox/003.jpg',
-                    title: 'Directory Of Finance Businesses',
-                    description: 'Sed ut perspiciatis unde omnis iste error sit voluptatem accusantium doloremque lau dantium, rem aperiam eaque ipsa ab illo inventore veritatis',
-                },
+                    id: 4,
+                    srcimg: 'images/imagebox/004.jpg',
+                    title: 'Empowering Women Through Entrepreneurship',
+                    description: 'Discover inspiring stories of women entrepreneurs who have turned innovative business ideas into successful ventures. Learn about their journey, challenges, and the impact of financial empowerment on their lives.',
+                  },
+                  {
+                    id: 5,
+                    srcimg: 'images/imagebox/005.jpg',
+                    title: 'Fintech Solutions for Inclusive Growth',
+                    description: 'Explore the latest fintech innovations that are driving financial inclusion for women worldwide. From mobile banking to blockchain-based solutions, see how technology is transforming access to finance.',
+                  },
+                  {
+                    id: 6,
+                    srcimg: 'images/imagebox/006.jpg',
+                    title: 'Financial Planning for Women: A Roadmap to Success',
+                    description: 'Join our comprehensive financial planning sessions designed to help women set financial goals, manage debt, and invest wisely. Gain the knowledge and tools needed to achieve financial freedom.',
+                  }
+                  
             ]
         }
     }

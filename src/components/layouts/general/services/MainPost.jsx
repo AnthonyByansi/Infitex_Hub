@@ -31,47 +31,48 @@ class MainPost extends Component {
             ],
             boxcontent: [
                 {
-                    id: '1',
-                    title: 'Retirement Planning',
-                    description: 'Sed facilisis lorem in orci bibendum ullamcorper.Mauris vitae augue elementum, sodales nulla a,semper ligula. Nullam vel enim risus. Integer rhoncus hendrerit sem egestas porttitor. Integer et mi sed dolor eleifend pretium quis ut velit.',
-                },
-                {
-                    id: '2',
-                    title: 'Business Planning',
-                    description: 'Sed facilisis lorem in orci bibendum ullamcorper. Mauris vitae augue elementum, sodales nulla a, semper ligula. Nullam vel enim risus. Integer rhoncus hendrerit sem egestas porttitor.',
-                },
-                {
-                    id: '3',
-                    title: 'Risk Management',
-                    description: 'Sed facilisis lorem in orci bibendum ullamcorper. Mauris vitae augue elementum, sodales nulla a, semper ligula.',
-                },
+                    id: '4',
+                    title: 'Investing for Your Future',
+                    description: 'Explore various investment options and strategies to secure your financial future. From stocks and bonds to real estate, learn how to make informed investment decisions to achieve long-term goals.',
+                  },
+                  {
+                    id: '5',
+                    title: 'Budgeting for Financial Success',
+                    description: 'Join our budgeting workshops to master the art of managing your finances effectively. Learn practical tips for creating and maintaining a budget that aligns with your financial goals.',
+                  },
+                  {
+                    id: '6',
+                    title: 'Women in Leadership: Empowering Change',
+                    description: 'Discover the inspiring journeys of women leaders who have broken barriers and made a significant impact. Gain insights into leadership skills, diversity, and creating inclusive workplaces.',
+                  }
+                  
             ],
             flatlist: [
                 {
-                    id: '1',
-                    text: 'Work fewer hours — and make more money'
+                  id: '1',
+                  text: 'Achieve Work-Life Balance: Work Fewer Hours and Earn More'
                 },
                 {
-                    id: '2',
-                    text: 'Attract and retain quality, high-paying customers'
+                  id: '2',
+                  text: 'Attract and Retain High-Paying, Quality Customers'
                 },
                 {
-                    id: '3',
-                    text: 'Integer rhoncus hendrerit sem egestas porttitor.'
+                  id: '3',
+                  text: 'Master Time Management to Maximize Productivity'
                 },
                 {
-                    id: '4',
-                    text: 'Manage your time so you’ll get more done in less time'
+                  id: '4',
+                  text: 'Enhance Leadership Skills for Effective Team Management'
                 },
                 {
-                    id: '5',
-                    text: 'Praesent sem libero, luctus et quam iaculis.'
+                  id: '5',
+                  text: 'Strategies for Effective Risk Management and Growth'
                 },
                 {
-                    id: '6',
-                    text: 'Hone sharp leadership skills to manage your team'
+                  id: '6',
+                  text: 'Financial Planning for a Secure Future'
                 },
-            ],
+              ],git a              
             flattoggle: [
                 {
                     id: '1',

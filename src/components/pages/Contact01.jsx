@@ -36,17 +36,17 @@ class Contact01 extends Component {
                 {
                     id: '1',
                     title: 'Address',
-                    info:'PO Box 16122 Collins Street West,Victoria 8007 Australia'
+                    info:'Plot 123, Kampala Road'
                 },
                 {
                     id: '2',
                     title: 'Phone number',
-                    info:'Call us: 190 140 2468'
+                    info:'Call us: +256 787 686 313'
                 },
                 {
                     id: '3',
                     title: 'E-mail address',
-                    info:'support@themesflat.com'
+                    info:'info@infitxempowermenthub.ug'
                 }
             ]
         }

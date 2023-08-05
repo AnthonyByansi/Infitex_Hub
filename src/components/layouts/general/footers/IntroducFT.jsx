@@ -14,7 +14,7 @@ const IntroducFT = () => {
             <Link to="#">1107 Wood Street, Saginaw, MI, New York 48607</Link>
           </li>
           <li className="phone">
-            <Link to="#">+123 345 678 000</Link>
+            <Link to="#">+256 787 686 313</Link>
           </li>
           <li className="mail">
             <Link to="mailto:info@infitxempowermenthub.com">info@infitxempowermenthub.com</Link>

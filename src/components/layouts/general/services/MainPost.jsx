@@ -72,27 +72,27 @@ class MainPost extends Component {
                   id: '6',
                   text: 'Financial Planning for a Secure Future'
                 },
-              ],git a              
-            flattoggle: [
+              ],              
+              flattoggle: [
                 {
-                    id: '1',
-                    title: 'Strategy Development',
-                    content: 'Good strategy is the antidote to competition. Strategic thinking is the process of developing a strategy that defines your value proposition and your unique value chain. This process includes market and competitive research as well as an assessment of the company’s capabilities and the industry forces impacting it.',
-                    classtoggle: 'toggle-title active'
+                  id: '1',
+                  title: 'Financial Strategy Development',
+                  content: 'Effective financial strategy is essential for sustainable growth. Develop a comprehensive financial strategy that aligns with your business goals and optimizes resource allocation. This process includes market analysis, financial forecasting, and risk assessment.',
+                  classtoggle: 'toggle-title active'
                 },
                 {
-                    id: '2',
-                    title: 'Strategic Plan Development',
-                    content: 'Good strategy is the antidote to competition. Strategic thinking is the process of developing a strategy that defines your value proposition and your unique value chain. This process includes market and competitive research as well as an assessment of the company’s capabilities and the industry forces impacting it.',
-                    classtoggle: 'toggle-title'
+                  id: '2',
+                  title: 'Financial Planning and Budgeting',
+                  content: 'Create a well-structured financial plan and budget to guide your financial decisions. Learn to allocate resources efficiently, manage cash flow, and optimize financial performance to achieve your targets.',
+                  classtoggle: 'toggle-title'
                 },
                 {
-                    id: '3',
-                    title: 'Strategic Plan Execution',
-                    content: 'Good strategy is the antidote to competition. Strategic thinking is the process of developing a strategy that defines your value proposition and your unique value chain. This process includes market and competitive research as well as an assessment of the company’s capabilities and the industry forces impacting it.',
-                    classtoggle: 'toggle-title'
+                  id: '3',
+                  title: 'Financial Plan Execution and Monitoring',
+                  content: 'Translate your financial plan into action and monitor progress towards your financial goals. Implement performance metrics, conduct regular reviews, and make data-driven adjustments to stay on track.',
+                  classtoggle: 'toggle-title'
                 },
-            ],
+              ],              
             titleplan: [
                 {
                     id: '1',

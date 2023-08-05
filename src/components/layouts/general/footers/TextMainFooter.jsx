@@ -12,7 +12,7 @@ const TextMainFooter = () => {
         Kampala, Uganda
       </p>
       <p>Email: info@infitxempowermenthub.ug<br />
-         Phone: +256 789 123 456
+         Phone: +256 787 686 313
       </p>
     </div>
     /* <!-- /.widget-text --> */

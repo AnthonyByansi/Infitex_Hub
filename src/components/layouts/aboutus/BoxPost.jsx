@@ -9,15 +9,15 @@ class BoxPost extends Component {
                     id: '1',
                     srcimg: 'images/about/01.jpg',
                     subtitle:'Founder & CEO',
-                    title: 'STEVEN MONROE',
+                    title: 'Tumusime Fortune',
                     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.',
                     classdivider: 'dividers dividers-about-post'
                 },
                 {
                     id: '2',
                     srcimg: 'images/about/02.jpg',
-                    subtitle:'Founder & CEO',
-                    title: 'STEVEN MONROE',
+                    subtitle:'Company Director',
+                    title: 'Nakisanzi Daisy',
                     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.',
                     classdivider: 'dividers dividers-about-post'
                 },
@@ -25,15 +25,15 @@ class BoxPost extends Component {
                     id: '3',
                     srcimg: 'images/about/03.jpg',
                     subtitle:'Finance & Commerce',
-                    title: 'STEVEN MONROE',
+                    title: 'Linda',
                     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.',
                     classdivider: 'dividers dividers-about-post'
                 },
                 {
                     id: '4',
                     srcimg: 'images/about/04.jpg',
-                    subtitle:'Company Director',
-                    title: 'ROMEO ALVAREZ',
+                    subtitle:'CTO',
+                    title: 'Byansi Anthony',
                     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.',
                     classdivider: ''
                 },

@@ -11,7 +11,7 @@ const IntroducFT = () => {
       <div className="list-info">
         <ul>
           <li className="address">
-            <Link to="#">1107 Wood Street, Saginaw, MI, New York 48607</Link>
+            <Link to="#">Plot XX, Street Name, Kampala, Uganda</Link>
           </li>
           <li className="phone">
             <Link to="#">+256 787 686 313</Link>

@@ -36,12 +36,12 @@ class ContactPage extends Component {
         {
           id: '1',
           title: 'Address',
-          info: 'Plot XX, Street Name, Kampala, Uganda' // Updated address to the INFITX Empowerment Hub address in Uganda
+          info: 'Plot 123, Street Name, Kampala, Uganda' // Updated address to the INFITX Empowerment Hub address in Uganda
         },
         {
           id: '2',
           title: 'Phone number',
-          info: 'Call us: +256-XXX-XXXXXX' // Updated phone number to the INFITX Empowerment Hub contact number in Uganda
+          info: 'Call us: +256 787 686 313' // Updated phone number to the INFITX Empowerment Hub contact number in Uganda
         },
         {
           id: '3',

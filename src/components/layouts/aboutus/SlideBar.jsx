@@ -26,10 +26,7 @@ class Team extends Component {
                     id: 5,
 					title: 'Estate Planning',
                 },
-                {
-                    id: 6,
-					title: 'Home Transparent Header',
-				},
+                
 				
             ],
             titletab: [

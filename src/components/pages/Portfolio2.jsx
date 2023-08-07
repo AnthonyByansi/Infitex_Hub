@@ -15,7 +15,7 @@ class Portfolio2 extends Component {
             titleheading: [
                 {
                     id: '1',
-                    title: 'Layout 02'
+                    title: 'Layout'
                 }
             ],
             breadcrumbs: [
@@ -33,7 +33,7 @@ class Portfolio2 extends Component {
                 },
                 {
                     id: 3,
-                    title: 'Layout 02',
+                    title: 'Layout',
                     classicon: '',
                     aria: ''
                 }

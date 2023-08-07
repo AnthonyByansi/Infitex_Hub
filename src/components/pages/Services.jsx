@@ -15,7 +15,7 @@ class Services extends Component {
             titleheading: [
                 {
                     id: '1',
-                    title: 'Services Grid'
+                    title: 'Services'
                 }
             ],
             breadcrumbs: [
@@ -33,7 +33,7 @@ class Services extends Component {
                 },
                 {
                     id: 3,
-                    title: 'Services Grid',
+                    title: 'Services',
                     classicon: '',
                     aria: ''
                 }

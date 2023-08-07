@@ -15,7 +15,7 @@ class TeamGrid extends Component {
             titleheading: [
                 {
                     id: '1',
-                    title: 'Team Grid'
+                    title: 'Team'
                 }
             ],
             breadcrumbs: [
@@ -33,7 +33,7 @@ class TeamGrid extends Component {
                 },
                 {
                     id: 3,
-                    title: 'Team Grid',
+                    title: 'Team',
                     classicon: '',
                     aria: ''
                 }

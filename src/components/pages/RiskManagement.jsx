@@ -15,7 +15,7 @@ class RiskManagement extends Component {
             titleheading: [
                 {
                     id: '1',
-                    title: 'Services Grid'
+                    title: 'Services'
                 }
             ],
             breadcrumbs: [

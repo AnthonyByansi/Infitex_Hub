@@ -15,29 +15,31 @@ class MainGrid extends Component {
 			boxgrid: [
 				{
 					id: '1',
-					srcimg: 'images/about/t01.jpg',
-					subtitle: 'Founder &amp; CEO',
-					title: 'STEVEN MONROE',
-					listsocial: [
+					image: 'images/about/t01.jpg',
+					subtitle: 'Founder & CEO',
+					name: 'Fortune Tumusime',
+					socialMedia: [
 						{
 							id: '1',
-							datatitle:'Facebook',
-							classtitle: 'facebook',
-							classicon: 'fa fa-facebook'
+							title: 'Facebook',
+							classTitle: 'facebook',
+							iconClass: 'fab fa-facebook-f'
 						},
 						{
 							id: '2',
-							datatitle:'LinkedIn',
-							classtitle: 'linkedin',
-							classicon: 'fa fa-linkedin'
-						},{
+							title: 'LinkedIn',
+							classTitle: 'linkedin',
+							iconClass: 'fab fa-linkedin-in'
+						},
+						{
 							id: '3',
-							datatitle:'Google Plus',
-							classtitle: 'google-plus',
-							classicon: 'fa fa-google-plus'
+							title: 'Google Plus',
+							classTitle: 'google-plus',
+							iconClass: 'fab fa-google-plus-g'
 						}
 					]
 				},
+				
 				{
 					id: '2',
 					srcimg: 'images/about/t02.jpg',

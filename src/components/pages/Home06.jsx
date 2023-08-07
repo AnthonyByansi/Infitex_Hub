@@ -51,7 +51,7 @@ class Home06 extends Component {
                     <Callback />
 
                     <section className="flat-row pdmap">
-                        <div className="flat-maps" data-address="Thành phố New York, Tiểu bang New York" data-height="453" data-images="images/map/map-1.png" data-name="Themesflat Map"></div>
+                        <div className="flat-maps" data-address="Infitx Hub Center" data-height="453" data-images="images/map/map-1.png" data-name="Themesflat Map"></div>
                         <div className="gm-map">                
                             <div className="map"></div>                        
                         </div>

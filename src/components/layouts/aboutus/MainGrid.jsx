@@ -43,20 +43,20 @@ class MainGrid extends Component {
 				{
 					id: '2',
 					srcimg: 'images/about/t02.jpg',
-					subtitle: 'Founder &amp; CEO',
-					title: 'STEVEN MONROE'
+					subtitle: 'Company Director',
+					title: 'Daisy Nakisanzi'
 				},
 				{
 					id: '3',
 					srcimg: 'images/about/t03.jpg',
 					subtitle: 'Finance & Commerce',
-					title: 'MICHAEL KING'
+					title: 'Linda'
 				},
 				{
 					id: '4',
 					srcimg: 'images/about/t04.jpg',
-					subtitle: 'Company Director',
-					title: 'ROMEO ALVAREZ'
+					subtitle: 'CTO',
+					title: 'Anthony Byans'
 				}
 			],
 			

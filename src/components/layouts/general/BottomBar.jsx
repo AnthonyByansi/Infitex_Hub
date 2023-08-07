@@ -8,7 +8,7 @@ class BottomBar extends Component {
                         <div className="row">
                             <div className="col-md-12">
                                 <div className="copyright">
-                                    <p>Copyright 2023 InFITX . Theme by <Link to="#" title="">Themesflat</Link></p>
+                                    <p>Copyright 2023 InFITX. <Link to="#" title=""></Link></p>
                                 </div>
                                 <ul className="menu-footer">
                                     <li><Link to="/" onClick={() => {window.location.href="/"}} title="">Home</Link></li>

@@ -13,19 +13,19 @@ class ProgessAccordion extends Component {
 			flatprogress: [
 				{
 					id: 1,
-					nameflat: 'Photoshop',
+					nameflat: 'Workshops',
 					perc: '40',
 					datapercent: '40'
 				},
 				{
 					id: 2,
-					nameflat: 'WordPress',
+					nameflat: 'Education',
 					perc: '70', 
 					datapercent: '70'
 				},
 				{
 					id: 3,
-					nameflat: 'Javascript',
+					nameflat: 'Insurance',
 					perc: '90',
 					datapercent: '90' 
 				}
@@ -40,18 +40,18 @@ class ProgessAccordion extends Component {
 				{
 					id: 1,
 					toggletitle: 'What are all the different types of accountants?',
-					togglecontent: 'Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch.'
-				},
-				{
+					togglecontent: 'If you are interested in pursuing a career in accounting, there are various specialized fields you can consider. Some of the different types of accountants include: tax accountants, audit accountants, forensic accountants, management accountants, and government accountants.'
+				  },
+				  {
 					id: 2,
-					toggletitle: 'What Do Accountants Without Their CPA do?',
-					togglecontent: 'Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch.'
-				},
-				{
+					toggletitle: 'What do accountants without their CPA do?',
+					togglecontent: 'Not all accountants have their Certified Public Accountant (CPA) designation. Those without a CPA may still work in areas such as bookkeeping, financial analysis, accounts payable or receivable, budgeting, and payroll processing. Earning a CPA license, however, can open up additional career opportunities and higher earning potential.'
+				  },
+				  {
 					id: 3,
-					toggletitle: 'How do i make a mid-career switch into ?',
-					togglecontent: 'Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch.'
-				}
+					toggletitle: 'How do I make a mid-career switch into accounting?',
+					togglecontent: 'Making a mid-career switch into accounting is possible with the right approach. Consider taking relevant accounting courses or pursuing a degree in accounting to build the necessary skills and knowledge. Networking with professionals in the accounting field and seeking internships or entry-level positions can also help you transition into a career in accounting.'
+				  }
 			]
         }
     }

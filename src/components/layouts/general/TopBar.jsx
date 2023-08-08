@@ -9,7 +9,7 @@ class TopBar extends Component {
                         <div className="col-md-12">
                             <ul className="flat-infomation">
                                 <li className="phone">Call us: <Link to="+61383766284" title="phone">+256 787 686 313</Link></li>
-                                <li className="email">Email: <Link to="mailto:support24-7@gmail.com" title="email">support@infitxhub.com</Link></li>
+                                <li className="email">Email: <Link to="mailto:support@infitxhub.com" title="email">support@infitxhub.com</Link></li>
                             </ul>
                             <div className="flat-questions">
                                 {/* <Link to="#" title="" className="questions">Have any questions?</Link>

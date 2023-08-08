@@ -17,7 +17,7 @@ class HeaderTransparent extends Component {
                     <div className="row">
                         <div className="header-wrap">
                             <div className="col-md-2">
-                                <div id="logo" className="logo">
+                                <div id="logo" className="logo"> 
                                     <Link to="#" title="">
                                         <img src="images/logo-blog.png" alt="logo Finance Business" />
                                     </Link>

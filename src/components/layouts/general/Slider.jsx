@@ -10,11 +10,11 @@ class Slider extends Component {
                     <div className="slotholder"></div>
                     <ul>
                         
-                    {/* <!-- SLIDE 3 --> */}
+                    {/* <!-- SLIDE 3 --> */} 
                         <li data-index="rs-3049" data-transition="slideremovedown" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"    data-rotate="0"  data-saveperformance="off"  data-title="Ken Burns" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">                        
 
                             {/* <!-- MAIN IMAGE --> */}
-                            <img src="images/slides/slide1.png"  alt=""  data-bgposition="center center" data-kenburns="off" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" className="rev-slidebg" data-no-retina />
+                            <img src="images/slides/all.jpg"  alt=""  data-bgposition="center center" data-kenburns="off" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" className="rev-slidebg" data-no-retina />
                             {/* <!-- LAYERS --> */}
 
                             {/* <!-- LAYER NR. 12 --> */}
@@ -40,7 +40,7 @@ class Slider extends Component {
                                 data-paddingbottom="[0,0,0,0"
                                 data-paddingleft="[0,0,0,0]"
 
-                                >We help businesses<br />innovate and grow
+                                >We empower women <br /> to innovate and thrive.
                             </div>
 
                             {/* <!-- LAYER NR. 13 --> */}
@@ -65,7 +65,7 @@ class Slider extends Component {
                                 data-paddingbottom="[0,0,0,0]"
                                 data-paddingleft="[0,0,0,0]"
 
-                                >With over 10 years of experience helping businesses to find<br />comprehensive solutions 
+                                >With over 2 years of experience helping businesses to find<br />comprehensive solutions 
                             </div>
 
                             <Link to="#" target="_self" className="tp-caption flat-button-slider bg-blue" 
@@ -96,7 +96,7 @@ class Slider extends Component {
                         <li data-index="rs-3048" data-transition="slideremovedown" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"    data-rotate="0"  data-saveperformance="off"  data-title="Ken Burns" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">                        
 
                             {/* <!-- MAIN IMAGE --> */}
-                            <img src="images/slides/slide1.png"  alt=""  data-bgposition="center center" data-kenburns="off" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" className="rev-slidebg" data-no-retina />
+                            <img src="images/slides/all2.jpg"  alt=""  data-bgposition="center center" data-kenburns="off" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" className="rev-slidebg" data-no-retina />
                             {/* <!-- LAYERS --> */}
 
                             {/* <!-- LAYER NR. 12 --> */}
@@ -122,7 +122,7 @@ class Slider extends Component {
                                 data-paddingbottom="[0,0,0,0"
                                 data-paddingleft="[0,0,0,0]"
 
-                                >We help businesses<br />innovate and grow
+                                >We empower women <br /> to innovate and thrive.
                             </div>
 
                             {/* <!-- LAYER NR. 13 --> */}
@@ -147,7 +147,7 @@ class Slider extends Component {
                                 data-paddingbottom="[0,0,0,0]"
                                 data-paddingleft="[0,0,0,0]"
 
-                                >With over 10 years of experience helping businesses to find<br />comprehensive solutions 
+                                >With over 2 years of experience helping businesses to find<br />comprehensive solutions 
                             </div>
 
                             <Link to="#" target="_self" className="tp-caption flat-button-slider bg-blue" 

@@ -9,7 +9,7 @@ class Layout extends Component {
 			itemcontent: [
 				{
 					id: '1',
-					srcimg: 'images/portfolio/07.jpg',
+					srcimg: 'images/news/inclusion.jpg',
 					classitem: 'item trading management',
 					title: 'Investment Planning',
 					category: 'Business /',
@@ -17,7 +17,7 @@ class Layout extends Component {
 				},
 				{
 					id: '2',
-					srcimg: 'images/portfolio/08.jpg',
+					srcimg: 'images/news/Bola Sokunbi (1).jpg',
 					classitem: 'item invoicing services',
 					title: 'Enterprise Loan',
 					category: 'Finance',
@@ -25,7 +25,7 @@ class Layout extends Component {
 				},
 				{
 					id: '3',
-					srcimg: 'images/portfolio/06.jpg',
+					srcimg: 'images/news/women.jpg',
 					classitem: 'item services savings',
 					title: 'Oak Tree Solutions',
 					category: 'Business',
@@ -41,7 +41,7 @@ class Layout extends Component {
 				},
 				{
 					id: '5',
-					srcimg: 'images/portfolio/04.jpg',
+					srcimg: 'images/news/round.jpg',
 					classitem: 'item finance trading',
 					title: 'Financial Report',
 					category: 'Management /',
@@ -49,7 +49,7 @@ class Layout extends Component {
 				},
 				{
 					id: '6',
-					srcimg: 'images/portfolio/02.jpg',
+					srcimg: 'images/news/incent.jpg',
 					classitem: 'item management finance',
 					title: 'Money Market',
 					category: 'Services /',
@@ -57,7 +57,7 @@ class Layout extends Component {
 				},
 				{
 					id: '7',
-					srcimg: 'images/portfolio/01.jpg',
+					srcimg: 'images/news/round.jpg',
 					classitem: 'item business savings trading',
 					title: 'Business Solutions',
 					category: 'Services /',
@@ -65,7 +65,7 @@ class Layout extends Component {
 				},
 				{
 					id: '8',
-					srcimg: 'images/portfolio/03.jpg',
+					srcimg: 'images/news/growth.jpg',
 					classitem: 'item savings services',
 					title: 'MO Insurance',
 					category: 'Services /',

@@ -8,7 +8,7 @@ class SingleBlogComponent extends Component {
       datablog: [
         {
           id: '1',
-          srcimg: 'images/blog/blog-post-01.png',
+          srcimg: 'images/imagebox/011.jpg',
           title: 'The Power of Financial Empowerment for Women',
           description: 'Welcome to our INFITX Empowerment Hub blog post! In this article, we will explore the importance of financial literacy and its positive impact on women\'s lives.',
           day: '20',
@@ -16,7 +16,7 @@ class SingleBlogComponent extends Component {
         },
         {
           id: '2',
-          srcimg: 'images/blog/blog-post-02.png',
+          srcimg: 'images/imagebox/financia.jpg',
           title: 'Achieving Financial Independence: A Guide for Women',
           description: 'At INFITX, we believe that every woman deserves to achieve financial independence. Join us on this journey to discover the path to financial freedom.',
           day: '20',
@@ -24,7 +24,7 @@ class SingleBlogComponent extends Component {
         },
         {
           id: '3',
-          srcimg: 'images/blog/blog-post-03.png',
+          srcimg: 'images/imagebox/Invest.jpg',
           title: 'Empowering Women Through Investment: Opportunities and Strategies',
           description: 'Learn how investing can be a powerful tool for women to grow their wealth and achieve their financial goals. Explore various investment opportunities tailored for women.',
           day: '20',

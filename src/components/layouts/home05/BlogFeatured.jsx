@@ -6,20 +6,20 @@ class BlogFeatured extends Component {
         this.state = {
             datanewBox: [
                 {
-                    id: 1,
-                    srcimg: 'images/imagebox/001.jpg',
+                    id: 1, 
+                    srcimg: 'images/imagebox/011.jpg',
                     title: 'Business Ideas And Innovation',
                     description:'Sed ut perspiciatis unde omnis iste error sit voluptatem accusantium.',
                 },
                 {
                     id: 2,
-                    srcimg: 'images/imagebox/002.jpg',
+                    srcimg: 'images/imagebox/011.jpg',
                     title: 'Business Ideas And Innovation',
                     description:'Sed ut perspiciatis unde omnis iste error sit voluptatem accusantium doloremque.',
                 },
                 {
                     id: 3,
-                    srcimg: 'images/imagebox/003.jpg',
+                    srcimg: 'images/imagebox/011.jpg',
                     title: 'Directory Of Finance Businesses',
                     description:'Sed ut perspiciatis unde omnis iste error sit voluptatem accusantium doloremque.',
                 },

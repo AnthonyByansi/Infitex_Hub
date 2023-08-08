@@ -14,13 +14,13 @@ class MainServices extends Component {
 			imagebox: [
 				{
 					id: '1',
-					imgsrc: 'images/imagebox/04.jpg',
-					title: 'Investment Planning',
+					imgsrc: 'images/imagebox/Investplanning.jpg',
+					title: 'Investment Planning', 
                     description: 'Create a comprehensive investment plan tailored to your financial goals and risk tolerance for a secure financial future.',
 				},
 				{
 					id: '2',
-					imgsrc: 'images/imagebox/05.jpg',
+					imgsrc: 'images/imagebox/planning.jpg',
 					title: 'Mutual Funds',
                     description: 'Diversify your investments and benefit from pooled money to purchase a broad range of assets, such as stocks and bonds.',
 				},

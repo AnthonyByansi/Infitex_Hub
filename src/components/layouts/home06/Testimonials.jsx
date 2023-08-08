@@ -10,20 +10,20 @@ class Testimonials extends Component {
 				}
 			],
             itemTes: [
-                {
+				{
 					id: 1,
 					srcimg: './images/testimonials/img-01.png',
-					content: 'Lorem ipsum dolor sit amet,consectetur adipiscing elit. Duis rutrum est eros, non feugiat enim sodales non.',
-					author: 'SIOBHÁN MCFEENEY',
-					authorinfo: 'Founder & CEO, Arcade Systems'
-				},
-				{
+					content: 'I am impressed with the exceptional service provided by Infitx. Their financial advice has helped me make better decisions for my business. I highly recommend their services!',
+					author: 'James Kato',
+					authorinfo: 'Entrepreneur & Business Owner'
+				  },
+				  {
 					id: 2,
 					srcimg: './images/testimonials/img-02.png',
-					content: 'Lorem ipsum dolor sit amet,consectetur adipiscing elit. Duis rutrum est eros, non feugiat enim sodales non.',
-					author: 'ANGELA HAMMACK',
-					authorinfo: 'Founder & CEO, Arcade Systems'
-				},
+					content: 'Infitx has been instrumental in managing my finances. Their team is knowledgeable and always available to answer my queries. Thanks to them, I feel more confident about my financial future.',
+					author: 'Sarah Nakato',
+					authorinfo: 'Investor & Financial Enthusiast'
+				  }
             ]
         }
     }

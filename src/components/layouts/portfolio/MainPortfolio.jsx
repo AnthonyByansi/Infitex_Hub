@@ -51,7 +51,7 @@ class MainPortfolio extends Component {
 					id: '6',
 					srcimg: 'images/portfolio/06.jpg',
 					classitem: 'item services savings',
-					title: 'Oak Tree Solutions',
+					title: 'Financial Solutions',
 					category: 'Business',
 					subcategory: '',
 				}

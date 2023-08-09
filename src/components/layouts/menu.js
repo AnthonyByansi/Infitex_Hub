@@ -4,42 +4,42 @@ const menus = [
         name: 'Home',
         linkmenu: '/',
         namesub: [
-            {
-                id: 1,
-                sub: 'Home Classic Header',
-                links: '/',
-                submenu: undefined
-            },
-            {
-                id: 2,
-                sub: 'Home Widget Header',
-                links: '/index-v3',
-                submenu: undefined
-            },
-            {
-                id: 3,
-                sub: 'Home Modern Header',
-                links: '/index-v2',
-                submenu: undefined
-            },
-            {
-                id: 4,
-                sub: 'Home Transparent Header',
-                links: '/index-v4',
-                submenu: undefined
-            },
+            // {
+            //     id: 1,
+            //     sub: 'Home Classic Header',
+            //     links: '/',
+            //     submenu: undefined
+            // },
+            // {
+            //     id: 2,
+            //     sub: 'Home Widget Header',
+            //     links: '/index-v3',
+            //     submenu: undefined
+            // },
+            // {
+            //     id: 3,
+            //     sub: 'Home Modern Header',
+            //     links: '/index-v2',
+            //     submenu: undefined
+            // },
+            // {
+            //     id: 4,
+            //     sub: 'Home Transparent Header',
+            //     links: '/index-v4',
+            //     submenu: undefined
+            // },
             {
                 id: 5,
-                sub: 'Home Layout 02',
+                sub: 'Infitx Hub',
                 links: 'index-layout2',
                 submenu: undefined
             },
-            {
-                id: 6,
-                sub: 'Home Layout 03',
-                links: '/index-v5',
-                submenu: undefined
-            }
+            // {
+            //     id: 6,
+            //     sub: 'Home Layout 03',
+            //     links: '/index-v5',
+            //     submenu: undefined
+            // }
         ]
     },
     {
@@ -55,7 +55,7 @@ const menus = [
             },
             {
                 id: 2,
-                sub: 'Team Grid',
+                sub: 'Partners',
                 links: '/about-v2',
                 submenu: undefined
             },
@@ -74,7 +74,7 @@ const menus = [
         namesub:  [
             {
                 id: 1,
-                sub: 'Services Grid',
+                sub: 'Services',
                 links: '/services-v1',
                 submenu: undefined
             },
@@ -88,25 +88,19 @@ const menus = [
     },
     {
         id: 4,
-        name: 'Portfolio',
+        name: 'Micro_Finance Services',
         linkmenu: '/portfolio-v3',
         namesub: [
             {
                 id: 1,
-                sub: 'Portfolio Default',
+                sub: 'Microloans for Small Businesses',
                 links: '/portfolio-v3',
                 submenu: undefined
             },
             {
                 id: 2,
-                sub: 'Layout 02',
+                sub: 'Savings and Investment Programs',
                 links: '/portfolio-v2',
-                submenu: undefined
-            },
-            {
-                id: 3,
-                sub: 'Portfolio Load More',
-                links: '/portfolio-v1',
                 submenu: undefined
             }
         ],
@@ -116,21 +110,21 @@ const menus = [
         name: 'News',
         linkmenu: '/blog',
         namesub: [
-            {
-                id: 1,
-                sub: 'Blog',
-                links: '/blog',
-                submenu: undefined
-            },
+            // {
+            //     id: 1,
+            //     sub: 'Blog',
+            //     links: '/blog',
+            //     submenu: undefined
+            // },
             {
                 id: 2,
-                sub: 'Blog Grid',
+                sub: 'Financial Literacy and Education',
                 links: '/blog-grid',
                 submenu: undefined
             },
             {
                 id: 3,
-                sub: 'Blog Single',
+                sub: 'Career Development & Personal Finance',
                 links: '/blog-single',
                 submenu: undefined
             },
@@ -144,14 +138,8 @@ const menus = [
         linkmenu: '/contact-v1',
         namesub: [
             {
-                id: 1,
-                sub: 'Contact 01',
-                links: '/contact-v1',
-                submenu: undefined
-            },
-            {
                 id: 2,
-                sub: 'Contact 02',
+                sub: 'Contact us',
                 links: '/contact-v2',
                 submenu: undefined
             },

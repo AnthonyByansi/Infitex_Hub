@@ -2,12 +2,12 @@ const menus = [
     {
         id: 1,
         name: 'Home',
-        linkmenu: '/',
+        linkmenu: 'index-layout2',
         namesub: [
             // {
             //     id: 1,
             //     sub: 'Home Classic Header',
-            //     links: '/',
+            //     links: '/',.
             //     submenu: undefined
             // },
             // {
@@ -29,10 +29,10 @@ const menus = [
             //     submenu: undefined
             // },
             {
-                id: 5,
-                sub: 'Infitx Hub',
-                links: 'index-layout2',
-                submenu: undefined
+                // id: 5,
+                // sub: 'Infitx Hub',
+                // links: 'index-layout2',
+                // submenu: undefined
             },
             // {
             //     id: 6,
